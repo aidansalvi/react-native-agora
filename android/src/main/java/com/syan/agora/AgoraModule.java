@@ -1,7 +1,7 @@
 package com.syan.agora;
 
 import android.graphics.Rect;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.view.SurfaceView;
 
 import com.facebook.react.bridge.Arguments;
